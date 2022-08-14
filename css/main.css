@@ -531,7 +531,9 @@ button {
 }
 
 .portfolio__image {
+  border: none;
   border-radius: 30px;
+  object-fit: cover;
 }
 
 @media screen and (max-width: 550px) {

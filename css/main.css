@@ -530,6 +530,10 @@ button {
   margin-bottom: 86px;
 }
 
+.portfolio__image {
+  border-radius: 30px;
+}
+
 @media screen and (max-width: 550px) {
   .footer {
     padding: 101px 0 46px;
